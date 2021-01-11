@@ -1,0 +1,4 @@
+﻿  Ch1Source3.cpp
+C:\Users\Administrator\Desktop\C++Winter21\Ch2DemoProject3Sol\Ch2DemoProject3\Ch1Source3.cpp(16,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\C++Winter21\Ch2DemoProject3Sol\Ch2DemoProject3\Ch1Source3.cpp(17,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Ch2DemoProject3.vcxproj -> C:\Users\Administrator\Desktop\C++Winter21\Ch2DemoProject3Sol\Debug\Ch2DemoProject3.exe
