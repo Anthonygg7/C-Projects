@@ -1,0 +1,3 @@
+﻿  Ch3Source18.cpp
+C:\Users\Administrator\Desktop\C++Winter21\Ch3Demoproject18Sol\Ch3Demoproject18\Ch3Source18.cpp(25,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Ch3Demoproject18.vcxproj -> C:\Users\Administrator\Desktop\C++Winter21\Ch3Demoproject18Sol\Debug\Ch3Demoproject18.exe

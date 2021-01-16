@@ -1,0 +1,6 @@
+﻿  Ch3Source16.cpp
+C:\Users\Administrator\Desktop\C++Winter21\Ch3DemoProject16\Ch3DemoProject16\Ch3Source16.cpp(39,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\C++Winter21\Ch3DemoProject16\Ch3DemoProject16\Ch3Source16.cpp(40,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\C++Winter21\Ch3DemoProject16\Ch3DemoProject16\Ch3Source16.cpp(41,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\C++Winter21\Ch3DemoProject16\Ch3DemoProject16\Ch3Source16.cpp(63,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Ch3DemoProject16.vcxproj -> C:\Users\Administrator\Desktop\C++Winter21\Ch3DemoProject16\Debug\Ch3DemoProject16.exe
