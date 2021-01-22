@@ -1,0 +1,5 @@
+﻿  Ch4Source6.cpp
+C:\Users\Administrator\Desktop\C++Winter21\Ch4DemoProject6Sol\Ch4DemoProject6\Ch4Source6.cpp(26,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\C++Winter21\Ch4DemoProject6Sol\Ch4DemoProject6\Ch4Source6.cpp(32,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\C++Winter21\Ch4DemoProject6Sol\Ch4DemoProject6\Ch4Source6.cpp(38,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Ch4DemoProject6.vcxproj -> C:\Users\Administrator\Desktop\C++Winter21\Ch4DemoProject6Sol\Debug\Ch4DemoProject6.exe
