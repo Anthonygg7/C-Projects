@@ -1,0 +1,7 @@
+﻿  Source56.cpp
+C:\Users\Administrator\Desktop\C++Winter21\Project56\Project56\Source56.cpp(16,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\C++Winter21\Project56\Project56\Source56.cpp(29,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\C++Winter21\Project56\Project56\Source56.cpp(40,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\C++Winter21\Project56\Project56\Source56.cpp(50,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\C++Winter21\Project56\Project56\Source56.cpp(59,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project56.vcxproj -> C:\Users\Administrator\Desktop\C++Winter21\Project56\Debug\Project56.exe
