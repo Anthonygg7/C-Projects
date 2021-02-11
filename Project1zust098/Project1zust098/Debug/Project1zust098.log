@@ -1,0 +1,9 @@
+﻿  Sou993932222rce.cpp
+C:\Users\Administrator\Desktop\C++Winter21\Project1zust098\Project1zust098\Sou993932222rce.cpp(10,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\C++Winter21\Project1zust098\Project1zust098\Sou993932222rce.cpp(12,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\C++Winter21\Project1zust098\Project1zust098\Sou993932222rce.cpp(27,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\C++Winter21\Project1zust098\Project1zust098\Sou993932222rce.cpp(30,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\C++Winter21\Project1zust098\Project1zust098\Sou993932222rce.cpp(39,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\C++Winter21\Project1zust098\Project1zust098\Sou993932222rce.cpp(49,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\C++Winter21\Project1zust098\Project1zust098\Sou993932222rce.cpp(58,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project1zust098.vcxproj -> C:\Users\Administrator\Desktop\C++Winter21\Project1zust098\Debug\Project1zust098.exe

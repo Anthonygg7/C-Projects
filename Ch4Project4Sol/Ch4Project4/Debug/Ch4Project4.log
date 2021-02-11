@@ -1,0 +1,3 @@
+﻿  Chapt4Source.cpp
+C:\Users\Administrator\Desktop\C++Winter21\Ch4Project4Sol\Ch4Project4\Chapt4Source.cpp(37,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Ch4Project4.vcxproj -> C:\Users\Administrator\Desktop\C++Winter21\Ch4Project4Sol\Debug\Ch4Project4.exe
