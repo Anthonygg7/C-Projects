@@ -1,0 +1,4 @@
+﻿  6Source.cpp
+C:\Users\Administrator\Desktop\C++Winter21\Ch7Project6\Ch7Project6\6Source.cpp(53,9): warning C4101: 'mealCost': unreferenced local variable
+C:\Users\Administrator\Desktop\C++Winter21\Ch7Project6\Ch7Project6\6Source.cpp(54,9): warning C4101: 'tiprate': unreferenced local variable
+  Ch7Project6.vcxproj -> C:\Users\Administrator\Desktop\C++Winter21\Ch7Project6\Debug\Ch7Project6.exe
