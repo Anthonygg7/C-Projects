@@ -1,0 +1,3 @@
+﻿  Source16.cpp
+C:\Users\Administrator\Desktop\C++Winter21\Cha7Project16\Cha7Project16\Source16.cpp(35,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Cha7Project16.vcxproj -> C:\Users\Administrator\Desktop\C++Winter21\Cha7Project16\Debug\Cha7Project16.exe
